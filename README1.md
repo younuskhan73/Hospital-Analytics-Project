@@ -8,7 +8,7 @@
 
 
 
-&nbsp;Project Overview
+ **Project Overview**
 
 
 
@@ -20,7 +20,7 @@ The dashboard provides executive-level insights to support data-driven decision-
 
 
 
-&nbsp;Key Objectives
+&nbsp;**Key Objectives**
 
 
 
@@ -36,7 +36,7 @@ The dashboard provides executive-level insights to support data-driven decision-
 
 
 
-📊 Key KPIs \& Metrics
+ **Key KPIs \& Metrics**
 
 
 
@@ -58,7 +58,7 @@ The dashboard provides executive-level insights to support data-driven decision-
 
 
 
-🧮 DAX Highlights
+&nbsp;**DAX Highlights**
 
 
 
@@ -76,7 +76,7 @@ The dashboard provides executive-level insights to support data-driven decision-
 
 
 
-&nbsp;Tools \& Technologies
+&nbsp;**Tools \& Technologies**
 
 \- Power BI
 
@@ -88,15 +88,15 @@ The dashboard provides executive-level insights to support data-driven decision-
 
 
 
-&nbsp;📸 Dashboard Preview
+&nbsp;📸 **Dashboard Preview**
 
-Screenshots available in the `/screenshots` folder.
-
-
+Screenshots available in the Screenshot folder.
 
 
 
-&nbsp;📂 Dataset
+
+
+&nbsp;📂 **Dataset**
 
 Sample hospital dataset used for analytics (from Kaggle datasets.)
 
@@ -104,7 +104,9 @@ Sample hospital dataset used for analytics (from Kaggle datasets.)
 
 
 
-🚀 Outcome
+ **Outcome:-**
+
+
 
 Built an interactive, multi-page Power BI dashboard with executive summary, KPI indicators, and drill-through analysis for hospital performance monitoring.
 
@@ -112,23 +114,23 @@ Built an interactive, multi-page Power BI dashboard with executive summary, KPI 
 
 
 
-&nbsp;🔗 Project Links
+&nbsp;🔗 **Project Links**
 
 
 
-\- 📊 Live Power BI Dashboard: 
+\- **Live Power BI Dashboard:** 
 
 &nbsp; https://app.powerbi.com/view?r=eyJrIjoiMDE3ZDMyZjAtNjg1Yi00ZmNiLTgwZTgtZTYwYmMyOGRhNThkIiwidCI6IjE5YTQ1ZDQ2LTIwNDItNDg0ZS05OGYyLTJkMjQzODdmNmUyNSJ9
 
 
 
-\- 💻 GitHub Repository:  
+\- **GitHub Repository:**  
 
-&nbsp; https://github.com/yourusername/hospital-analytics-powerbi
+&nbsp; https://github.com/younuskhan73/Hospital-Analytics-Project/tree/main
 
 
 
-> All key DAX measures used in the dashboard are documented in the `/Dax` folder.
+> All key DAX measures used in the dashboard are documented in the DAX Measure folder.
 
 The repository documents key business-critical DAX measures used for analysis; auxiliary and visual-level measures are excluded for clarity.
 
