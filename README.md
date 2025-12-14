@@ -126,7 +126,7 @@ Built an interactive, multi-page Power BI dashboard with executive summary, KPI 
 
 \- **GitHub Repository:**  
 
-&nbsp; https://github.com/younuskhan73/Hospital-Analytics-Project/tree/main
+&nbsp; https://github.com/younuskhan73/Hospital-Analytics-Project
 
 
 
