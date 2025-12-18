@@ -114,11 +114,7 @@ Hospital-Analytics-AIIMS
 
 
 
-> All key DAX measures used in the dashboard are documented in the DAX Measure folder.
-
-The repository documents key business-critical DAX measures used for analysis; auxiliary and visual-level measures are excluded for clarity.
-
-
+ All key DAX measures used in the dashboard are documented in the DAX Measure folder.
 
 
 
