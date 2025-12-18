@@ -8,7 +8,7 @@
 
 
 
- **Project Overview**
+ Project Overview
 
 
 
@@ -17,105 +17,89 @@ This project focuses on analysing hospital operations, patient admissions, and r
 The dashboard provides executive-level insights to support data-driven decision-making.
 
 
+ Tools: Power BI | SQL | Excel
 
 
+## Problem Statement:- 
 
-&nbsp;**Key Objectives**
+  Healthcare organizations require data-driven insights to improve patient care,
+  optimize hospital operations, and efficiently utilize resources.
+  This project analysed hospital data to monitor patient flow, treatment patterns,
+  and operational performance using interactive dashboards.
 
 
+## Dataset:-
 
-\- Analysed inpatient and outpatient admissions
+ - Hospital operational and patient-related data
+ - Multiple tables including:
+   - Patient details
+   - Admissions and discharges
+   - Doctors and departments
+   - Treatments and billing
+ - Data stored in Excel with multiple sheets and prepared using SQL
 
-\- Monitor departmental performance
 
-\- Track revenue trends (MoM \& YoY)
+## Tools and Technologies:-
 
-\- Identify growth and decline using KPI indicators
+  - Power BI – Dashboard development and KPI visualization
+  - SQL – Data modelling, joins, and aggregations
+  - Excel – Data validation and pre-processing
 
 
+## Analysis Performed:-
 
+  - Patient admission and discharge trend analysis
+  - Department-wise patient load and occupancy
+  - Doctor-wise performance and workload analysis
+  - Length of stay and treatment cost analysis
+  - KPI tracking for hospital operations
 
 
- **Key KPIs \& Metrics**
+## Dashboard Overview:-
 
+ The Power BI dashboard provides:
+  - Total admissions and discharges
+  - Department-wise and doctor-wise performance
+  - Patient length of stay trends
+  - Treatment cost and revenue insights
+  - Interactive filters for time period and departments
 
 
-\- Total Patients
+## Key Insights:-
 
-\- Total Admissions
+  - Certain departments experience consistently higher patient load
+  - Average length of stay varies significantly across departments
+  - Patient inflow shows seasonal patterns
+  - Some doctors handle higher workloads than others
 
-\- Inpatients vs Outpatients
 
-\- Department-wise Admissions \& Revenue
+## Business Recommendations:-
 
-\- Current Revenue vs Previous Revenue
+  - Optimize staffing for high-occupancy departments
+  - Improve discharge planning to reduce length of stay
+  - Balance doctor workload to improve efficiency
+  - Use insights to support hospital resource planning
 
-\- Revenue Growth % (MoM \& YoY)
 
-\- Recovery Rate by Department
+## Repository Structure:-
 
+Hospital-Analytics-AIIMS
+┣ Dataset
+┣ SQL
+┣ PowerBI
+┣ Screenshots
+┣ README.md
 
 
+## Skills Demonstrated:-
 
-
-&nbsp;**DAX Highlights**
-
-
-
-\- Current Month Revenue
-
-\- Previous Month Revenue
-
-\- Revenue MoM % Growth
-
-\- Revenue YoY % Growth
-
-\- Admissions Trend Measures
-
-
-
-
-
-&nbsp;**Tools \& Technologies**
-
-\- Power BI
-
-\- DAX
-
-\- Excel
-
-\- Star Schema Data Modelling
-
-
-
-&nbsp;📸 **Dashboard Preview**
-
-Screenshots available in the Screenshot folder.
-
-
-
-
-
-&nbsp;📂 **Dataset**
-
-Sample hospital dataset used for analytics (from Kaggle datasets.)
-
-
-
-
-
- **Outcome:-**
-
-
-
-Built an interactive, multi-page Power BI dashboard with executive summary, KPI indicators, and drill-through analysis for hospital performance monitoring.
-
-
-
+  - Healthcare data analysis
+  - Power BI dashboard design and KPI reporting
+  - SQL-based data modelling
+  - Business-focused analytical thinking
 
 
 &nbsp;🔗 **Project Links**
-
 
 
 \- **Live Power BI Dashboard:** 
