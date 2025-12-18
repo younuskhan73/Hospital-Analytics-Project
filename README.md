@@ -109,6 +109,9 @@ Hospital-Analytics-AIIMS
 
 &nbsp; https://app.powerbi.com/view?r=eyJrIjoiMDE3ZDMyZjAtNjg1Yi00ZmNiLTgwZTgtZTYwYmMyOGRhNThkIiwidCI6IjE5YTQ1ZDQ2LTIwNDItNDg0ZS05OGYyLTJkMjQzODdmNmUyNSJ9
 
+&nbsp; <!-- GitHub -->
+
+&nbsp; <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge\&logo=github" />
 
 
 \- **GitHub Repository:**  
